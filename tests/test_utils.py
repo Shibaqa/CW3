@@ -1,5 +1,3 @@
-import json
-
 import pytest
 
 from src.utils import (convert_date, get_mask_bankcard_account, get_mask_the_bank_account, get_mask_the_bankcard,

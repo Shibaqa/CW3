@@ -1,4 +1,4 @@
-from src.setings import OPERATIONS_PATH
+from src.settings import OPERATIONS_PATH
 from src.utils import read_json_file
 from src.views import show_last_five_operations
 
