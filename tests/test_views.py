@@ -1,4 +1,4 @@
-import pytgest
+import pytest
 
 from src.views import show_last_five_operations
 from tests.settings_test_views import TEST_DATA_1, TEST_DATA_2
